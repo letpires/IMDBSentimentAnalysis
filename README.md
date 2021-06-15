@@ -13,7 +13,7 @@
 <p align="center">
     <img alt="NLTK" src="https://img.shields.io/badge/NLTK-3.6.2-pink">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-1.2.3-yellow">
-    <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-0.24.2-yellow">
+    <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-0.24.2-blueviolet">
     
 
    </a>
