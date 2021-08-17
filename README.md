@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/letpires/imdb_sentiment_analysis/blob/main/banner_analise_de_sentimentos.png" >
+  <img src="https://github.com/letpires/imdb_sentiment_analysis/blob/main/NLP.png" >
 </p>
 
 <h2 align="center">
